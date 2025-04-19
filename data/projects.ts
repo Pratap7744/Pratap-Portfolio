@@ -86,8 +86,8 @@ export const projects: Project[] = [
     {
         name: 'Portfolio',
         description: {
-            en: 'A portfolio website created for Levi Lea, a student graphic designer. The site showcases her work and was developed using Vue.js, TypeScript, and Tailwind CSS.',
-            in: 'Un site web de portfolio créé pour Levi Lea, une étudiante en design graphique. Le site présente son travail et a été développé en utilisant Vue.js, TypeScript et Tailwind CSS.'
+            en: 'A sleek and responsive portfolio built with Nuxt.js, showcasing my projects, skills, and achievements. It offers a modern UI with smooth navigation and dynamic elements for an engaging experience. Optimized for both desktop and mobile devices, ensuring fast loading and excellent performance.',
+            in: 'Nuxt.js के साथ बनाया गया एक Sleek और Responsive पोर्टफोलियो, जिसमें मेरे प्रोजेक्ट्स, कौशल और उपलब्धियां दिखाई गई हैं। यह एक आधुनिक UI प्रदान करता है, जिसमें स्मूथ नेविगेशन और डाइनामिक तत्व होते हैं, जो उपयोगकर्ता के अनुभव को आकर्षक बनाते हैं। डेस्कटॉप और मोबाइल डिवाइस दोनों के लिए ऑप्टिमाइज्ड, जो तेज़ लोडिंग और बेहतरीन प्रदर्शन सुनिश्चित करता है।'
         },
         type: ['web'],
         date: '2023',
