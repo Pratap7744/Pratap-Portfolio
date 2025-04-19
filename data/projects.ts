@@ -92,8 +92,8 @@ export const projects: Project[] = [
         type: ['web'],
         date: '2023',
         technos: ['Nuxt.js'],
-        link: 'https://levilea.in/',
-        repo_link: 'https://github.com/icepick4'
+        link: 'https://pratap-pawar-portfolio.vercel.app/',
+        repo_link: 'https://pratap-pawar-portfolio.vercel.app/'
     },
     
 ];
