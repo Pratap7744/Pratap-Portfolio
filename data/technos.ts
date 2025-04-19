@@ -97,6 +97,12 @@ export const technos: Techno[] = [
         url: 'https://reactjs.org/'
     },
     {
+        title: 'Nuxt.js',
+        icon: 'nuxtjs',
+        type: 'framework',
+        url: 'https://nuxt.com/'
+    },
+    {
         title: 'MySQL',
         icon: 'mysql',
         type: 'database',

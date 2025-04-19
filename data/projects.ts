@@ -91,7 +91,7 @@ export const projects: Project[] = [
         },
         type: ['web'],
         date: '2023',
-        technos: ['React'],
+        technos: ['Nuxt.js'],
         link: 'https://levilea.in/',
         repo_link: 'https://github.com/icepick4'
     },
