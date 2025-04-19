@@ -26,14 +26,14 @@ import { IconLink } from '@tabler/icons-vue';
                                 >Frontend Developer</a
                             >
                             <p class="block sm:hidden text-sm">
-                                2023 - 2027 ({{ $t('internship') }})
+                                2/2025 - 5/2025 ({{ $t('internship') }})
                             </p>
                         </div>
                         <p>{{ $t('internOrganization') }}</p>
                     </div>
 
                     <div class="flex flex-col items-end gap-0.5">
-                        <p class="hidden sm:block text-sm">2023 - 2027</p>
+                        <p class="hidden sm:block text-sm">2/2025 - 5/2025</p>
                         <p class="hidden sm:block text-sm">
                             ({{ $t('internship') }})
                         </p>

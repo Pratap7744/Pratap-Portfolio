@@ -8,7 +8,7 @@ export const projects: Project[] = [
             in: "एक सोशल नेटवर्क एप्लिकेशन जो उपयोगकर्ताओं को मित्र बनाने, फॉलो करने, कंटेंट पोस्ट करने, पोस्ट पर लाइक व कमेंट करने और रीयल-टाइम में चैट करने की सुविधा देता है। इस प्रोजेक्ट के माध्यम से मैंने React.js को Node.js और MySQL के साथ इंटीग्रेट करना सीखा। यह एक मूल्यवान अनुभव रहा, जिसने मेरी डेवेलपमेंट स्किल्स को और मज़बूत किया।"
         },
         type: ['web', 'favorite'],
-        date: '2024',
+        date: '2025',
         technos: [
             'React',
             'SCSS',
@@ -25,7 +25,7 @@ export const projects: Project[] = [
             en: 'Aesthetix is a tool that enhances images by adding custom text behind the main subject, creating stunning aesthetics. With a login system powered by Supabase, it offers features like font styles, gradients, shadows, and more to personalize image designs. Aesthetix makes creating beautiful content effortless!'
         },
         type: ['web', 'favorite'],
-        date: '2024',
+        date: '2025',
         technos: [
             'React',
             'Tailwind CSS',
@@ -43,7 +43,7 @@ export const projects: Project[] = [
             in: "AI Chatbot एक सहायक है जिसे Gemini AI API का उपयोग करके उपयोगकर्ता के सवालों के आधार पर जानकारी प्राप्त करने के लिए बनाया गया है। यह Clerk का उपयोग करके सुरक्षित प्रमाणीकरण करता है और MongoDB में खोज इतिहास को स्टोर करता है, जिससे पिछले सवालों तक आसान पहुँच मिलती है। इसके सहज डिज़ाइन के साथ, AI Chatbot एक सुरक्षित और व्यक्तिगत अनुभव प्रदान करता है।"
         },
         type: ['web', 'favorite'],
-        date: '2023',
+        date: '2024',
         technos: [
             'React',
             'CSS',
@@ -90,7 +90,7 @@ export const projects: Project[] = [
             in: 'Nuxt.js के साथ बनाया गया एक Sleek और Responsive पोर्टफोलियो, जिसमें मेरे प्रोजेक्ट्स, कौशल और उपलब्धियां दिखाई गई हैं। यह एक आधुनिक UI प्रदान करता है, जिसमें स्मूथ नेविगेशन और डाइनामिक तत्व होते हैं, जो उपयोगकर्ता के अनुभव को आकर्षक बनाते हैं। डेस्कटॉप और मोबाइल डिवाइस दोनों के लिए ऑप्टिमाइज्ड, जो तेज़ लोडिंग और बेहतरीन प्रदर्शन सुनिश्चित करता है।'
         },
         type: ['web'],
-        date: '2023',
+        date: '2025',
         technos: ['Nuxt.js'],
         link: 'https://pratap-pawar-portfolio.vercel.app/',
         repo_link: 'https://pratap-pawar-portfolio.vercel.app/'
