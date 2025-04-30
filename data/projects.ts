@@ -72,7 +72,7 @@ export const projects: Project[] = [
         repo_link: 'https://github.com/Pratap7744/RecipeBlog'
     },
     {
-        name: 'Tic-Tac-Toe',
+        name: 'TicTacToe',
         description: {
             en: 'Built a two-player Tic Tac Toe game using React with hooks for state management. Features include move history, game status updates, and a responsive UI. Showcases core React skills and interactive UI handling.',
             in: "React का उपयोग करके एक दो-खिलाड़ी Tic Tac Toe गेम बनाया, जिसमें state प्रबंधन के लिए hooks का उपयोग किया गया। इसमें चालों का इतिहास, गेम की स्थिति अपडेट और उत्तरदायी UI जैसी विशेषताएँ शामिल हैं। यह React की मूल क्षमताओं और इंटरएक्टिव UI को संभालने की दक्षता को दर्शाता है।"
