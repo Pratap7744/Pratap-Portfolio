@@ -79,7 +79,7 @@ export const projects: Project[] = [
         },
         type: [ 'game'],
         date: '2023',
-        technos: ['React'],
+        technos: ['React','Vercel'],
         link: 'https://tic-tac-toe-by-pratap.netlify.app/',
         repo_link: 'https://github.com/Pratap7744/Tic-Tac-Toe'
     },
