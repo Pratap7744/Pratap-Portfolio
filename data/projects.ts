@@ -74,8 +74,8 @@ export const projects: Project[] = [
     {
         name: 'Tic-Tac-Toe',
         description: {
-            en: 'A Python package serving as an API wrapper for the One Piece universe, allowing users to retrieve data from the series. This project was a learning experience in Python package development and API integration.',
-            in: "Un package Python servant de wrapper API pour l'univers One Piece, permettant aux utilisateurs de récupérer des données de la série. Ce projet a été une expérience d'apprentissage dans le développement de packages Python et l'intégration d'API"
+            en: 'Built a two-player Tic Tac Toe game using React with hooks for state management. Features include move history, game status updates, and a responsive UI. Showcases core React skills and interactive UI handling.',
+            in: "React का उपयोग करके एक दो-खिलाड़ी Tic Tac Toe गेम बनाया, जिसमें state प्रबंधन के लिए hooks का उपयोग किया गया। इसमें चालों का इतिहास, गेम की स्थिति अपडेट और उत्तरदायी UI जैसी विशेषताएँ शामिल हैं। यह React की मूल क्षमताओं और इंटरएक्टिव UI को संभालने की दक्षता को दर्शाता है।"
         },
         type: [ 'game'],
         date: '2023',
