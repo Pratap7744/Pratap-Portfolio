@@ -5,7 +5,7 @@ export default defineI18nConfig(() => ({
         en: {
             about: {
                 1: "Hi there! I'm an enthusiastic developer with a strong passion for technology and computing. I've spent the past few years building diverse personal projects, driven by my curiosity and eagerness to explore and learn emerging tech.",
-                2: "I'm proficient in full-stack development with React, Node.js, Next.js, Express, PostgreSQL, MySQL, and MongoDB. I also work with Git, Linux, and automation through scripting, continuously improving my skills through personal projects and problem-solving on LeetCode.",
+                2: "I'm proficient in full-stack development with React, React Native, Node.js, Next.js, Express, PostgreSQL, MySQL, and MongoDB. I also work with Git, Linux, and automation through scripting, continuously improving my skills through personal projects and problem-solving on LeetCode.",
                 3: "I hold a Bachelor's degree in Computer Applications (BCA) from Sou. Shobhakaki Babar BCA College, Vita, affiliated with Shivaji University, Kolhapur. Throughout my academic journey, I focused on gaining knowledge and honed practical skills through an internship as a Frontend Developer at Qhills Technology Pvt Ltd. This experience allowed me to apply my learning to web development, enhancing my expertise. Alongside my studies, I pursued certifications in technologies, strengthening my understanding of full-stack development. These experiences have shaped my skills and deepened my passion for software development."
             },
             view: 'Live',
@@ -56,7 +56,7 @@ export default defineI18nConfig(() => ({
         in: {
             about: {
                 1: "नमस्ते! मैं एक उत्साही डेवलपर हूं जिसे तकनीक और कंप्यूटिंग के प्रति गहरी रुचि है। पिछले कुछ वर्षों से, मैंने विभिन्न पर्सनल प्रोजेक्ट्स पर काम किया है, जो मेरी जिज्ञासा और नई तकनीकों को सीखने की उत्सुकता से प्रेरित रहे हैं।",
-                2: "मैं React, Node.js, Next.js, Express, PostgreSQL, MySQL और MongoDB के साथ फुल-स्टैक डेवलपमेंट में दक्ष हूं। इसके अलावा मैं Git, Linux और स्क्रिप्टिंग के माध्यम से ऑटोमेशन में भी काम करता हूं। मैं LeetCode पर समस्याओं को हल करते हुए और पर्सनल प्रोजेक्ट्स बनाते हुए अपने कौशल को लगातार निखार रहा हूं।",
+                2: "मैं React, React Native, Node.js, Next.js, Express, PostgreSQL, MySQL और MongoDB के साथ फुल-स्टैक डेवलपमेंट में दक्ष हूं। इसके अलावा मैं Git, Linux और स्क्रिप्टिंग के माध्यम से ऑटोमेशन में भी काम करता हूं। मैं LeetCode पर समस्याओं को हल करते हुए और पर्सनल प्रोजेक्ट्स बनाते हुए अपने कौशल को लगातार निखार रहा हूं।",
                 3: "मैंने Sou. Shobhakaki Babar BCA College, Vita (जो कि शिवाजी विश्वविद्यालय, कोल्हापुर से संबद्ध है) से कंप्यूटर एप्लीकेशन (BCA) में स्नातक की डिग्री प्राप्त की है। अपनी अकादमिक यात्रा के दौरान, मैंने ज्ञान प्राप्त करने पर ध्यान केंद्रित किया और Qhills Technology Pvt Ltd में एक फ्रंटएंड डेवलपर के रूप में इंटर्नशिप करके व्यावहारिक कौशल भी सीखे। इस अनुभव ने मुझे वेब विकास में अपना ज्ञान लागू करने और अपनी विशेषज्ञता बढ़ाने में मदद की। साथ ही, मैंने अध्ययन के साथ-साथ विभिन्न तकनीकों में प्रमाणपत्र भी प्राप्त किए, जिससे मेरी फुल-स्टैक विकास की समझ और मजबूत हुई। इन अनुभवों ने मेरे कौशल को आकार दिया और सॉफ्टवेयर डेवलपमेंट के प्रति मेरा जुनून और भी गहरा किया।"
             },
             
